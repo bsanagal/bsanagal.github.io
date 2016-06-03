@@ -1,0 +1,21 @@
+body{
+	background-color: #F5F5F5 !important;
+}
+.titlechange{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+	font-family: Lobster;
+	padding-right: 8%;
+	background-color: #483D8B;
+	color: #faebd7;
+	margin-bottom: 0px;
+}
+.blogtitle{
+	font-size: 30px;
+}
+.stylepic{
+	width: 100%;
+	height: 200px;
+	border-radius: 10px;
+}
